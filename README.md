@@ -3,7 +3,7 @@
 - 👀 **Chasing:** Open-source magic, AI, and tech that saves the planet 🌱
 - 🚀 **Right now, I’m mastering:** Blockchain, web3, and scalable systems that break boundaries 🌐
 - 💥 **Collab with me on:** Disruptive open-source projects, healthtech, or anything that shakes things up! 🤝
-- 📫 **Slide into my DMs:** [LinkedIn](https://www.linkedin.com/in/parth-batra) | [Email](mailto:parthbatra21@gmail.com)
+- 📫 **Slide into my DMs:** [LinkedIn](www.linkedin.com/in/parthbatra21) | [Email](mailto:parthbatrab@gmail.com)
 - 😎 **Pronouns:** He/Him
 - ⚡ **Fun fact:** Built a Carbon Footprint Calculator, always leveling up for the next wild idea ⚙️💡
 
