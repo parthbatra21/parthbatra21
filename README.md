@@ -5,7 +5,6 @@
 - 💥 **Collab with me on:** Disruptive open-source projects, healthtech, or anything that shakes things up! 🤝
 - 📫 **Slide into my DMs:** [LinkedIn](www.linkedin.com/in/parthbatra21) | [Email](mailto:parthbatrab@gmail.com)
 - 😎 **Pronouns:** He/Him
-- ⚡ **Fun fact:** Built a Carbon Footprint Calculator, always leveling up for the next wild idea ⚙️💡
 
 <!---
 parthbatra21/parthbatra21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
