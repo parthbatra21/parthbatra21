@@ -1,19 +1,19 @@
 <h1 align="center">Hi, I'm Parth! 🚀</h1>  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=parth&theme=dark&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=parthbatra21&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
 
 ## 👨‍💻 About Me
-- 🎓 Student at **Manipal University Jaipur** | **Student Excellence Awardee (Oct '24)**  
-- 🏆 **1st Place** - Bit2Byte Hackathon | **3rd Place** - Datathon by TAPMI MUJ  
-- 💻 **Internship** - Working on **Spring Boot & AWS Cognito**  
-- 🔬 Exploring **Machine Learning (ML) & React**  
-- 🚀 Contributor at **GirlScript Summer of Code (GSSoC)**  
+- 🎓 **Student at Manipal University Jaipur**  
+- 🏆 **Winner:** Bit2Byte Hackathon (1st Place) | TAPMI Datathon (3rd Place)  
+- 💼 **Internship:** Working with **Spring Boot & AWS Cognito**  
+- 🧠 **Exploring:** Machine Learning, React, and Backend Development  
+- 🚀 **Competitive Coder & Open Source Contributor (GSSoC 2024)**  
 
 ---
 
 ## 🛠 Tech Stack
-### 💻 Programming
+### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -28,25 +28,15 @@
 
 ---
 
-## 📂 Featured Projects  
-### 🔹 [Hospital Ecosystem Website](https://github.com/your-username/hospital-ecosystem)  
-🛠 **Tech**: Blockchain, AI, React, Spring Boot  
-🔹 Built a **hospital management system** with AI Therapist, AI Advisor & blockchain-based patient records.  
-
-### 🔹 [Oculoo](https://github.com/your-username/oculoo)  
-🛠 **Tech**: React, Spring Boot, AWS Cognito  
-🔹 Developing an intuitive **healthcare management platform** for elderly users.  
-
-### 🔹 [Car Purchase & Trade-in System](https://github.com/your-username/cars-trade)  
-🛠 **Tech**: SQL, Java, Spring Boot  
-🔹 A database project for managing **car purchases, trade-ins & customer details**.  
-
----
-
-## 📊 GitHub Stats  
+## 📊 GitHub & LeetCode Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parthbatra21&show_icons=true&theme=dark" height="180px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthbatra21&layout=compact&theme=dark" height="180px">
+</p>
+
+### 🏆 LeetCode Stats  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/parthbatra21?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats">
 </p>
 
 ---
@@ -58,4 +48,4 @@
 
 ---
 
-🔥 *Passionate about tech, innovation, and building impactful solutions!* 🚀  
+🔥 *Passionate about tech, innovation, and solving real-world problems!* 🚀  
