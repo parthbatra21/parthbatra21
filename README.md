@@ -45,16 +45,16 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parth&show_icons=true&theme=dark" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth&layout=compact&theme=dark" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=parthbatra21&show_icons=true&theme=dark" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthbatra21&layout=compact&theme=dark" height="180px">
 </p>
 
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Parth-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link)  
-[![GitHub](https://img.shields.io/badge/GitHub-Parth-181717?style=flat&logo=github)](https://github.com/parth)  
-[![Email](https://img.shields.io/badge/Email-parth@example.com-red?style=flat&logo=gmail)](mailto:parth@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Parth-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/parthbatra21)  
+[![GitHub](https://img.shields.io/badge/GitHub-Parth-181717?style=flat&logo=github)](https://github.com/parthbatra21)  
+[![Email](https://img.shields.io/badge/Email-parth@example.com-red?style=flat&logo=gmail)](mailto:parthbatrab@gmail.com)  
 
 ---
 
