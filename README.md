@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Parth! 🚀</h1>  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=parthbatra21&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
 
 ## 👨‍💻 About Me
