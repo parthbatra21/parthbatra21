@@ -43,7 +43,7 @@
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Parth-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/parthbatra21)  
 [![GitHub](https://img.shields.io/badge/GitHub-Parth-181717?style=flat&logo=github)](https://github.com/parthbatra21)  
-[![Email](https://img.shields.io/badge/Email-parth@example.com-red?style=flat&logo=gmail)](mailto:parthbatrab@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-parthbatrab@gmail.com-red?style=flat&logo=gmail)](mailto:parthbatrab@gmail.com)  
 
 ---
 
